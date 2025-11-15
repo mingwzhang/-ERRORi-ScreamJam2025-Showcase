@@ -16,8 +16,8 @@ Built using the Godot Engine, this game was developed fully solo within the one-
 ## Jam Results
 
 - Fully solo-developed (code, art, level design, sound, effects)
-- Ranked Top 30% overall — #277 out of 930 entries
-- Top 20 Most-Rated — 55 ratings
+- Ranked Top 30% overall: #277 out of 930 entries
+- Top 20 Most-Rated: 55 ratings
 
 ---
 
