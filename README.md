@@ -1,4 +1,4 @@
-# !ERRORi — Scream Jam 2025 Showcase
+# !ERRORi: Scream Jam 2025 Showcase
 
 <img width="1920" height="1080" alt="Title screen" src="https://github.com/user-attachments/assets/05284637-1c94-4347-81e8-8e539ecac8ec" />
 
